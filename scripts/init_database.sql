@@ -1,7 +1,7 @@
 /*
-=============================================================
-Create Database and Logical Schemas (MySQL Version)
-=============================================================
+==================
+Create Database 
+==================
 
 Script Purpose:
     This script creates a new database named 'DataWarehouse' after checking if it already exists. 
